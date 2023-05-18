@@ -1,1 +1,2 @@
-Developed and deployed an extractive question answering system using the BERT model, enabling accurate extraction of relevant information from text to provide precise answers to user queries.
+The aim of my project is to develop a question answering model that can accurately answers questions based on given text. The dataset I used here is Stanford Question Answering Dataset. The dataset is the popular and valuable resource and is the starting point for exploring and building question answering models. Developed and deployed an extractive question answering system using the BERT model, enabling accurate extraction of relevant information from text to provide precise answers to user queries.
+
